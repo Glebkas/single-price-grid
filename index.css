@@ -1,0 +1,15 @@
+@import url(./vendor/normalize.css);
+@import url(./blocks/root/root.css);
+@import url(./blocks/lead/lead.css);
+@import url(./blocks/lead/__title/lead__title.css);
+@import url(./blocks/lead/__subtitle/lead__subtitle.css);
+@import url(./blocks/lead/__description/lead__description.css);
+@import url(./blocks/subscription/subscription.css);
+@import url(./blocks/subscription/__title/subscription__title.css);
+@import url(./blocks/subscription/__price/subscription__price.css);
+@import url(./blocks/subscription/__price/_bold/subscripotion__price_bold);
+@import url(./blocks/subscription/__description/subscription__description.css);
+@import url(./blocks/subscription/__button/subscription__button.css);
+@import url(./blocks/why-us/why-us.css);
+@import url(./blocks/why-us/__title/why-us__title.css);
+@import url(./blocks/why-us/__description/why-us__description.css);
