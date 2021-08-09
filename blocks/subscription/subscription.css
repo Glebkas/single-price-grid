@@ -2,3 +2,9 @@
   background-color: #2ab3b1;
   padding: 2.5rem;
 }
+
+@media screen and (max-width: 635px) {
+  .subscription {
+    padding: 1.5rem;
+  }
+}

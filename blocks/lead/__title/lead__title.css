@@ -4,5 +4,11 @@
   color: #2ab3b1;
   font-weight: 700;
   line-height: 1.17;
-  text-align: left;
+}
+
+
+@media screen and (max-width: 635px) {
+  .lead__title {
+    font-size: 1.25rem;
+  }
 }

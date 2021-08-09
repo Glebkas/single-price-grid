@@ -1,6 +1,16 @@
-.lead{
-    background-color:white;
-    margin: 2.5rem;
-    text-align: left;
+.lead {
+  background-color: white;
+  padding: 2.5rem;
+  text-align: left;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  border-radius: 8px 8px 0 0;
+}
 
+@media screen and (max-width: 635px) {
+  .lead {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    padding: 1.5rem;
+  }
 }

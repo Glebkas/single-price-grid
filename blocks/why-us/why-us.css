@@ -1,0 +1,12 @@
+.why-us{
+    background-color: #4abebd;
+    padding: 2.5rem;
+    
+
+}
+@media screen and (max-width: 635px) {
+    .why-us {
+      padding: 1.5rem;
+    }
+  }
+  
