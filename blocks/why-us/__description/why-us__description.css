@@ -5,12 +5,5 @@
     line-height: 1.428;
     font-size: 0.875rem;
     color:white;
-}
-
-@media screen and (max-width:635px) {
-    .why-us__description{
-        max-width: 187px;
-
-    }
-    
+    max-width: 187px;
 }
