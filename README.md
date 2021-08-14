@@ -27,7 +27,7 @@ screenshot.JPG
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://glebkas.github.io/single-price-grid/)
+- Live Site URL: [single-price-grid](https://glebkas.github.io/single-price-grid/)
 
 ## My process
 
